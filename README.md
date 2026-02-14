@@ -6,7 +6,7 @@ Further details can be found in the following manuscript:
 
 > Qi Yang, Jingye Han, Zhuowei Chen, Jin Yu, Yuanyuan Zha, Liangsheng Shi*, 2026. Integrating deep learning, process-based model and UAV data for rice yield mapping: A model-data fusing framework with a benchmark dataset. (*in submission*)
 
-![geolocation](image.png){width="100%"}
+<img src="image.png" alt="geolocation" width="100%">
 
 
 ### The dataset includes:
